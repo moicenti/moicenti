@@ -1,4 +1,4 @@
-## Hi there 👋
+## Buenas 👋
 
 <!--
 **moicenti/moicenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me 👨‍💻
+
+Hey there, my name is Moisés Centi but everyone calls me Marco, born in 2004 and studying a CS engineering, righ now I'd say i really enjoy creating UI and bringing those ideas to life, but i also enjoy working on backends, overall i got a better expertice on mobiles and webs, places where i can help bring those ideas to life.
+
+Also enjoy learning with others and helping them understand better, thats why i decided to become a database administration assistant because one of the places where i shine is on databases.
+
+Some of my studies 🎓
+
+Microsoft office Word 2019 - Certiport
+Microsoft office Powerpoint 2019 - Certiport
+Microsoft office Exel 2019 - Certiport
+HCIA-IoT V3.0 - Huawei Academy
+
+Technologies ⚙️
+
+  Programming languages 💻
+
+    *Java*🌟 - *JavaScript*🌟 - *TypeSCript*⭐ - *Kotlin*🌟 - *C++*⭐ - *Phyton* - *Rust* 
+
+  Database engines 🌐
+
+    *SQL server*🌟 - *Oracle*🌟 - *MySql*⭐ - *Postgres*⭐ - *MongoDB*⭐ - "Maria DB"
+
+  FrameWorks and libraries 📘
+
+    *React*🌟 - *Express*🌟 - *Spring Boot* - *Next.JS*
+
+  IDEs 🛠️
+
+    *VS Code*🌟 - *InteliJ*🌟 - *Android Studio*🌟 - *Datagrip*🌟
+    
+
+    
+
+

@@ -32,21 +32,47 @@ Technologies ⚙️
 
   Programming languages 💻
 
-    *Java*🌟 - *JavaScript*🌟 - *TypeSCript*⭐ - *Kotlin*🌟 - *C++*⭐ - *Phyton* - *Rust* 
+    Java🌟 - JavaScript🌟 - TypeSCript⭐ - Kotlin🌟 - C++⭐ - Phyton - Rust 
 
   Database engines 🌐
 
-    *SQL server*🌟 - *Oracle*🌟 - *MySql*⭐ - *Postgres*⭐ - *MongoDB*⭐ - "Maria DB"
+    SQL server🌟 - Oracle🌟 - MySql⭐ - Postgres⭐ - MongoDB⭐ - Maria DB
 
   FrameWorks and libraries 📘
 
-    *React*🌟 - *Express*🌟 - *Spring Boot* - *Next.JS*
+    React🌟 - Express🌟 - Spring Boot - Next.JS
 
   IDEs 🛠️
 
-    *VS Code*🌟 - *InteliJ*🌟 - *Android Studio*🌟 - *Datagrip*🌟
-    
+    VS Code🌟 - InteliJ🌟 - Android Studio🌟 - Datagrig🌟
 
+  Versions control 🐈
+
+    Git🌟 - Github🌟
+    
+  Other things im good at 🔄
+
+    Linux🌟 - Docker🌟 - Docker Compose - Nginx⭐ - APIs REST⭐ - Firebase⭐ - AWS⭐
+
+
+Things I like ❤️
+  
+  Dogs 🐶
+  Card Tricks 🃏
+  Movies 📽️
+  Videogames 🎮
+  Programming ofc 😉
+ 
+Things I've worked on. 👷‍♂️
+
+  Inscription like game on Java, i was in charge of the combat mechanic 🃏
+  DND mobile app where i was the one making screens for user based content 🐉
+
+Write me something  📩
+
+LInkedin: www.linkedin.com/in/matoceti
+My github: https://github.com/moicenti
+    
     
 
 
